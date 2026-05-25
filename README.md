@@ -1,7 +1,7 @@
 # <img src="./terminal-prompt.svg" width="42" align="left" alt="Blinking terminal cursor"> Things I’m building, fixing, or trying in public
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hmalinowski-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmalinowski/)
-[![Email](https://img.shields.io/badge/Email-malinowski.henry%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malinowski.henry+github@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmalinowski/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malinowski.henry+github@gmail.com)
 
 Around here you’ll find public tools, experiments, release plumbing, compatibility patches, and forks from bugs I chased far enough to fix.
 
